@@ -5,4 +5,5 @@ A tool to crossfade audios with python, it can easily be modified and for lots o
 # Dependencies
 
 -pydub (Required)
+
 -playsound (Used for the preview)
